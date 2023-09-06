@@ -1,12 +1,12 @@
 {
-    "name": "8xprovn/Widgets",
+    "name": "8xprovn/widgets",
     "description": "A powerful alternative to view composers. Asynchronous widgets, reloadable widgets, console generator, caching - everything you can think of.",
     "license": "MIT",
     "keywords": ["laravel", "widgets", "ajax"],
     "authors": [
         {
-            "name": "Nekrasov Ilya",
-            "email": "nekrasov.ilya90@gmail.com"
+            "name": "Namtq",
+            "email": ""
         }
     ],
     "homepage": "https://github.com/8xprovn/laravel-widgets",
