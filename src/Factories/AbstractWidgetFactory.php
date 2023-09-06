@@ -181,9 +181,9 @@ abstract class AbstractWidgetFactory
      */
     protected function wrapContentInContainer($content)
     {
-        if (self::$skipWidgetContainer) {
-            return $content;
-        }
+        // if (self::$skipWidgetContainer) {
+        //     return $content;
+        // }
 
         $container = $this->widget->container();
         if (empty($container['element'])) {
