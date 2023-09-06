@@ -29,7 +29,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Arrilot\\Widgets\\Test\\": "tests"
+            "Widgets\\Test\\": "tests"
         }
     },
     "extra": {
