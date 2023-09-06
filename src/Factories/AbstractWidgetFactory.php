@@ -184,7 +184,6 @@ abstract class AbstractWidgetFactory
         // if (self::$skipWidgetContainer) {
         //     return $content;
         // }
-
         $container = $this->widget->container();
         if (empty($container['element'])) {
             $container['element'] = 'div';
